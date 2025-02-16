@@ -2,7 +2,7 @@
   "format_version": "1.20.50",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "spawnercraft:iron_golem_spawn_egg"
+      "identifier": "spawner_craft:iron_golem_spawn_egg"
     },
     "tags": ["crafting_table"],
     "pattern": [" C ", "III", "EIG"],

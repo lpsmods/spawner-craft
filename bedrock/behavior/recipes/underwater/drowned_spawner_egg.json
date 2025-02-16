@@ -2,7 +2,7 @@
   "format_version": "1.20.50",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "spawnercraft:drowned_spawn_egg"
+      "identifier": "spawner_craft:drowned_spawn_egg"
     },
     "tags": ["crafting_table"],
     "pattern": [" S ", "SES", " G "],

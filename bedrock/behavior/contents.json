@@ -1,0 +1,269 @@
+{
+   "content" : [
+      {
+         "path" : "CHANGELOG.md"
+      },
+      {
+         "path" : "LICENSE"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "recipes/friendly/allay_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/armadillo_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/bat_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/bee_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/camel_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/cat_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/chicken_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/cow_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/donkey_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/fox_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/frog_spawn_egg_ochre.json"
+      },
+      {
+         "path" : "recipes/friendly/frog_spawn_egg_pearlescent.json"
+      },
+      {
+         "path" : "recipes/friendly/frog_spawn_egg_verdant.json"
+      },
+      {
+         "path" : "recipes/friendly/goat_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/horse_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/iron_golem_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/llama_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/mooshroom_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/mule_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/ocelot_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/panda_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/parrot_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/pig_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/polar_bear_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/rabbit_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/sheep_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/sniffer_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/snow_golem_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/villager_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/wandering_trader_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/friendly/wolf_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/bogged_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/breeze_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/cave_spider_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/creaking_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/creeper_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/enderman_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/endermite_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/evoker_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/husk_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/phantom_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/pillager_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/ravager_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/shulker_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/silverfish_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/skeleton_horse_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/skeleton_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/slime_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/spider_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/stray_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/vex_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/vindicator_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/warden_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/witch_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/wither_skeleton_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/zombie_horse_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/zombie_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/hostile/zombie_villager_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/mob_spawner.json"
+      },
+      {
+         "path" : "recipes/nether/blaze_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/ghast_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/hoglin_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/magma_cube_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/piglin_brute_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/piglin_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/strider_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/zoglin_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/nether/zombified_piglin_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/axolotl_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/cod_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/dolphin_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/drowned_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/elder_guardian_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/glow_squid_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/guardian_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/pufferfish_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/salmon_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/squid_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/tadpole_spawn_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/tropical_fish_spawner_egg.json"
+      },
+      {
+         "path" : "recipes/underwater/turtle_spawner_egg.json"
+      },
+      {
+         "path" : "texts/en_US.lang"
+      },
+      {
+         "path" : "texts/languages.json"
+      }
+   ],
+   "version" : 1
+}
