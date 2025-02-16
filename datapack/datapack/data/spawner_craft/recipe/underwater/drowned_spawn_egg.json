@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BEB",
+    " G "
+  ],
+  "key": {
+    "E": "minecraft:zombie_spawn_egg",
+    "G": "#spawner_craft:cost_items",
+    "B": "minecraft:water_bucket"
+  },
+  "result": {
+    "id": "minecraft:drowned_spawn_egg",
+    "count": 1
+  },
+  "group": "underwater"
+}

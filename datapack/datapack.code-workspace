@@ -2,9 +2,6 @@
   "folders": [
     {
       "path": "./datapack"
-    },
-    {
-      "path": "./resourcepack"
     }
   ],
   "settings": {

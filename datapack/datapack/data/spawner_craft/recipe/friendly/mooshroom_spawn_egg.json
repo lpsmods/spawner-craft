@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "SES",
+    " G "
+  ],
+  "key": {
+    "E": "minecraft:cow_spawn_egg",
+    "G": "#spawner_craft:cost_items",
+    "T": "minecraft:red_mushroom_block",
+    "S": "minecraft:red_mushroom"
+  },
+  "result": {
+    "id": "minecraft:mooshroom_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}

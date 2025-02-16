@@ -1,26 +1,22 @@
 {
   "pack": {
-    "pack_format": 36,
-    "supported_formats": {
-      "min_inclusive": 33,
-      "max_inclusive": 36
-    },
-    "version": [1, 0, 0],
+    "pack_format": 61,
+    "version": [1, 16, 0],
     "description": [
       {
-        "text": "DESC! ",
+        "text": "Adds recipes for all the spawn eggs!\n",
         "color": "gray"
       },
       {
         "text": "Legopitstop",
-        "color": "#ff8800",
+        "color": "#e86608",
         "underlined": true
       }
     ],
     "metadata": {
       "authors": ["Legopitstop"],
-      "license": "https://license.lpsmods.dev",
-      "url": "https://lpsmods.dev"
+      "license": "https://license.lpsmods.dev/",
+      "url": "https://lpsmods.dev/"
     }
   }
 }

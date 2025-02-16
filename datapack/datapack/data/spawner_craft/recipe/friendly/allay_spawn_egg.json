@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "SES",
+    " G "
+  ],
+  "key": {
+    "E": "#spawner_craft:egg_items",
+    "G": "#spawner_craft:cost_items",
+    "T": "minecraft:diamond",
+    "S": "minecraft:cookie"
+  },
+  "result": {
+    "id": "minecraft:allay_spawn_egg",
+    "count": 1
+  },
+  "group": "friendly"
+}
