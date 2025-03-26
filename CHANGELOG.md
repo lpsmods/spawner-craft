@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [bedrock-1.6.0] (1.21.70) - 3/26/2025
+
+### General
+
+- Updated for 1.21.70
+- You can now use the Brown and Blue Eggs in all recipes.
+
+## [datapack-1.17.0] (1.21.5) - 3/26/2025
+
+### General
+
+- Updated for 1.21.5
+- You can now use the Brown and Blue Eggs in all recipes.
+
 ## [bedrock-1.5.0] (1.21.60) - 2/15/2025
 
 ### General
