@@ -18,12 +18,10 @@
         "item": "minecraft:cactus"
       }
     },
-    "result": [
-      {
-        "item": "minecraft:camel_spawn_egg",
-        "count": 1
-      }
-    ],
+    "result": {
+      "item": "minecraft:camel_spawn_egg",
+      "count": 1
+    },
     "unlock": [
       {
         "item": "minecraft:cactus"

@@ -21,12 +21,10 @@
         "item": "minecraft:gold_ingot"
       }
     },
-    "result": [
-      {
-        "item": "minecraft:iron_golem_spawn_egg",
-        "count": 1
-      }
-    ],
+    "result": {
+      "item": "minecraft:iron_golem_spawn_egg",
+      "count": 1
+    },
     "unlock": [
       {
         "item": "minecraft:iron_block"

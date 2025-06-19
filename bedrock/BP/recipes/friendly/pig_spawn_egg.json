@@ -21,12 +21,10 @@
         "item": "minecraft:porkchop"
       }
     },
-    "result": [
-      {
-        "item": "minecraft:pig_spawn_egg",
-        "count": 1
-      }
-    ],
+    "result": {
+      "item": "minecraft:pig_spawn_egg",
+      "count": 1
+    },
     "unlock": [
       {
         "item": "minecraft:carrot_on_a_stick"

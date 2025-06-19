@@ -14,12 +14,10 @@
         "item": "minecraft:gold_ingot"
       }
     ],
-    "result": [
-      {
-        "item": "minecraft:sniffer_spawn_egg",
-        "count": 1
-      }
-    ],
+    "result": {
+      "item": "minecraft:sniffer_spawn_egg",
+      "count": 1
+    },
     "unlock": [
       {
         "item": "minecraft:sniffer_egg"

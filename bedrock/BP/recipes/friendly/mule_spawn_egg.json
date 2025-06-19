@@ -14,12 +14,10 @@
         "item": "minecraft:horse_spawn_egg"
       }
     ],
-    "result": [
-      {
-        "item": "minecraft:mule_spawn_egg",
-        "count": 2
-      }
-    ],
+    "result": {
+      "item": "minecraft:mule_spawn_egg",
+      "count": 2
+    },
     "unlock": [
       {
         "item": "minecraft:donkey_spawn_egg"

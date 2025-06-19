@@ -22,12 +22,10 @@
         "data": 14
       }
     },
-    "result": [
-      {
-        "item": "minecraft:mooshroom_spawn_egg",
-        "count": 1
-      }
-    ],
+    "result": {
+      "item": "minecraft:mooshroom_spawn_egg",
+      "count": 1
+    },
     "unlock": [
       {
         "item": "minecraft:red_mushroom_block"
