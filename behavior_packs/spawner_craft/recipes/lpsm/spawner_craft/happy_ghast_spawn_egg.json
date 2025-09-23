@@ -1,0 +1,37 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_spawner_craft:happy_ghast_spawn_egg"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" D ", "TET", " G "],
+    "group": "friendly",
+    "key": {
+      "E": {
+        "tag": "minecraft:egg"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "D": {
+        "item": "minecraft:dried_ghast"
+      },
+      "T": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "result": {
+      "item": "minecraft:happy_ghast_spawn_egg",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:dried_ghast"
+      },
+      {
+        "item": "minecraft:ghast_tear"
+      }
+    ]
+  }
+}

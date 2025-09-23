@@ -1,0 +1,37 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_spawner_craft:copper_golem_spawn_egg"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" C ", "ESG"],
+    "group": "friendly",
+    "key": {
+      "C": {
+        "item": "minecraft:carved_pumpkin"
+      },
+      "S": {
+        "item": "minecraft:copper_block"
+      },
+      "E": {
+        "tag": "minecraft:egg"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:copper_golem_spawn_egg",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "minecraft:copper_block"
+      },
+      {
+        "item": "minecraft:carved_pumpkin"
+      }
+    ]
+  }
+}
