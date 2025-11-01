@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SES", " G "],
+  "key": {
+    "E": "#lpsm_spawner_craft:egg_items",
+    "G": "#lpsm_spawner_craft:cost_items",
+    "T": "minecraft:hay_block",
+    "S": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:horse_spawn_egg",
+    "count": 1
+  }
+}

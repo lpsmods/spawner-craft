@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BBB", "BDB", "BOB"],
+  "key": {
+    "B": "#lpsm_spawner_craft:spawner/outside_items",
+    "O": "#lpsm_spawner_craft:spawner/bottom_items",
+    "D": "#lpsm_spawner_craft:spawner/cost_items"
+  },
+  "result": {
+    "id": "minecraft:spawner",
+    "count": 1
+  }
+}

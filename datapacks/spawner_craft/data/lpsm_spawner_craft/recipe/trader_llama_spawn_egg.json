@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:llama_spawn_egg",
+
+    "minecraft:wandering_trader_spawn_egg"
+  ],
+  "result": {
+    "id": "minecraft:trader_llama_spawn_egg",
+    "count": 2
+  }
+}

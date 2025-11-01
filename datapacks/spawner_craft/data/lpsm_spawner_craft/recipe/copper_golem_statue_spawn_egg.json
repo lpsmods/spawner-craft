@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["#lpsm_spawner_craft:egg_items", "#lpsm_spawner_craft:cost_items", "#minecraft:copper_golem_statues"],
+  "result": {
+    "id": "minecraft:copper_golem_spawn_egg",
+    "count": 1
+  }
+}

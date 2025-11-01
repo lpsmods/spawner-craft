@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "SEC", " G "],
+  "key": {
+    "E": "#lpsm_spawner_craft:egg_items",
+    "G": "#lpsm_spawner_craft:cost_items",
+    "T": "minecraft:bone",
+    "S": "minecraft:beef",
+    "C": "minecraft:chicken"
+  },
+  "result": {
+    "id": "minecraft:wolf_spawn_egg",
+    "count": 1
+  }
+}

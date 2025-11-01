@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [88, 0],
+    "description": [
+      {
+        "text": "Adds recipes for all the spawn eggs!\n",
+        "color": "gray"
+      },
+      {
+        "text": "Legopitstop",
+        "color": "#e86608",
+        "underlined": true
+      }
+    ]
+  }
+}

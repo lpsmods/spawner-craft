@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" M ", "MEM", " G "],
+  "key": {
+    "E": "#lpsm_spawner_craft:egg_items",
+    "G": "#lpsm_spawner_craft:cost_items",
+    "M": "minecraft:magma_block"
+  },
+  "result": {
+    "id": "minecraft:magma_cube_spawn_egg",
+    "count": 1
+  }
+}

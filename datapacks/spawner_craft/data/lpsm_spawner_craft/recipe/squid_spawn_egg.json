@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", "BEB", " G "],
+  "key": {
+    "E": "#lpsm_spawner_craft:egg_items",
+    "G": "#lpsm_spawner_craft:cost_items",
+    "B": "minecraft:water_bucket",
+    "T": "minecraft:ink_sac"
+  },
+  "result": {
+    "id": "minecraft:squid_spawn_egg",
+    "count": 1
+  }
+}

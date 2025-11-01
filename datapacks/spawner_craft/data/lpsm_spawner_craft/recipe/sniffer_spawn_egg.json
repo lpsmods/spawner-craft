@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:sniffer_egg", "minecraft:gold_ingot"],
+  "result": {
+    "id": "minecraft:sniffer_spawn_egg",
+    "count": 1
+  }
+}
