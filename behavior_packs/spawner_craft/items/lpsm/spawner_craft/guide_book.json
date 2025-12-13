@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.100",
+  "format_version": "1.21.110",
   "minecraft:item": {
     "description": {
       "identifier": "lpsm_spawner_craft:guide_book",
@@ -12,7 +12,7 @@
       "minecraft:icon": "lpsm_spawner_craft:guide_book",
       "lpsm_spawner_craft:guide_book": {
         "back_button": {
-          "top_margin": 0,
+          "top_margin": 1,
           "icon": "textures/ui/arrowLeft.png"
         }
       },

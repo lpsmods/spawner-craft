@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.50",
+  "format_version": "1.21.110",
   "minecraft:recipe_shaped": {
     "description": {
       "identifier": "lpsm_spawner_craft:mob_spawner"

@@ -4,16 +4,21 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.8.0] (1.21.x) - unreleased
+## [2.0.0] (1.21.130) - unreleased
 
 ### General
 
-- Updated for 1.21.x
+- Requires Assets+ v2.0.0
+- Updated for 1.21.120
 - Added guide book.
 
 ### New Recipes
 
 - Copper Golem Spawn Egg
+- Camel Husk Spawn Egg
+- Nautilus Spawn Egg
+- Parched Spawn Egg
+- Zombie Nautilus Spawn Egg
 - Guide Book
 
 ## [1.7.0] (1.21.90) - 6/19/2025

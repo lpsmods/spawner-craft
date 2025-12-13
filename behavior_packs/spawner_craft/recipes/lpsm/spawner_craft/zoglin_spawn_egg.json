@@ -1,11 +1,10 @@
 {
-  "format_version": "1.20.50",
+  "format_version": "1.21.110",
   "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "lpsm_spawner_craft:zoglin_spawn_egg"
     },
     "tags": ["crafting_table"],
-    "group": "nether",
     "ingredients": [
       {
         "item": "minecraft:hoglin_spawn_egg"

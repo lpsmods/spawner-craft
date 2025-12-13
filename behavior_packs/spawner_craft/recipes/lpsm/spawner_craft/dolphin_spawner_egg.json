@@ -1,12 +1,11 @@
 {
-  "format_version": "1.20.50",
+  "format_version": "1.21.110",
   "minecraft:recipe_shaped": {
     "description": {
       "identifier": "lpsm_spawner_craft:dolphin_spawn_egg"
     },
     "tags": ["crafting_table"],
     "pattern": [" T ", "SES", " G "],
-    "group": "underwater",
     "key": {
       "E": {
         "tag": "minecraft:egg"

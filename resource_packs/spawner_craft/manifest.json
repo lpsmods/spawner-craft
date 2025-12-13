@@ -4,21 +4,19 @@
     "description": "pack.description",
     "name": "pack.name",
     "uuid": "1fc5486d-3e1d-417c-b33f-24809bec27d2",
-    "version": [1, 8, 0],
-    "min_engine_version": [1, 21, 100],
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 21, 130],
     "pack_scope": "world"
   },
   "metadata": {
-    "authors": ["legopitstop"],
-    "license": "https://license.lpsmods.dev",
-    "url": "https://lpsmods.dev"
+    "authors": ["legopitstop"]
   },
   "modules": [
     {
       "description": "pack.description",
       "type": "resources",
       "uuid": "2e301caf-02c0-4f67-9b08-4e9fde7da05e",
-      "version": [1, 8, 0]
+      "version": [2, 0, 0]
     }
   ]
 }

@@ -4,15 +4,15 @@
     "description": "pack.description",
     "name": "pack.name",
     "uuid": "52e6666c-5423-4c0b-bf8c-12f75f3b0d3c",
-    "version": [1, 8, 0],
-    "min_engine_version": [1, 21, 100]
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 21, 130]
   },
   "modules": [
     {
       "description": "pack.description",
       "type": "data",
       "uuid": "09b258fc-96b1-4d7c-a1fa-e414f66cfb40",
-      "version": [1, 8, 0]
+      "version": [2, 0, 0]
     },
     {
       "type": "script",
@@ -23,20 +23,19 @@
     }
   ],
   "metadata": {
-    "authors": ["legopitstop"],
-    "license": "https://license.lpsmods.dev",
-    "url": "https://lpsmods.dev"
+    "authors": ["legopitstop"]
   },
   "dependencies": [
     {
       "uuid": "1fc5486d-3e1d-417c-b33f-24809bec27d2",
-      "version": [1, 8, 0]
+      "version": [2, 0, 0]
     },
+    // Assets+
     {
       "uuid": "c86dd7d9-e84e-456f-a84f-1993e353da4c",
       "version": [2, 0, 0]
     },
-    { "module_name": "@minecraft/server", "version": "2.1.0" },
+    { "module_name": "@minecraft/server", "version": "2.3.0" },
     { "module_name": "@minecraft/server-ui", "version": "2.0.0" }
   ]
 }

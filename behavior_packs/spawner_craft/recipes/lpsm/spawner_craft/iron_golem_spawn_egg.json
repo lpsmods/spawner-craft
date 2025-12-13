@@ -1,12 +1,11 @@
 {
-  "format_version": "1.20.50",
+  "format_version": "1.21.110",
   "minecraft:recipe_shaped": {
     "description": {
       "identifier": "lpsm_spawner_craft:iron_golem_spawn_egg"
     },
     "tags": ["crafting_table"],
     "pattern": [" C ", "III", "EIG"],
-    "group": "friendly",
     "key": {
       "C": {
         "item": "minecraft:carved_pumpkin"
