@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_spawner_craft:sulfur_cube_spawn_egg"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" S ", "SES", " G "],
+    "key": {
+      "E": {
+        "tag": "minecraft:egg"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "S": {
+        "item": "minecraft:sulfur"
+      }
+    },
+    "result": [
+      {
+        "item": "minecraft:sulfur_cube_spawn_egg",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sulfur"
+      }
+    ]
+  }
+}

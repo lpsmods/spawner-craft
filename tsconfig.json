@@ -18,7 +18,10 @@
     "noImplicitUseStrict": false,
     "outDir": "lib",
     "rootDir": ".",
-    "baseUrl": "behavior_packs/",
+    "baseUrl": ".",
+    "paths": {
+      "#changelog": ["build/generated/changelog.ts"]
+    },
     "listFiles": false,
     "noEmitHelpers": true,
     "skipLibCheck": true,

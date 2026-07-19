@@ -1,4 +1,12 @@
 {
   "workbench.iconTheme": "mc-dp-icons",
-  "python.envFile": "${workspaceFolder}/.env"
+  "python.envFile": "${workspaceFolder}/.env",
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "changelog.json"
+      ],
+      "url": "https://raw.githubusercontent.com/lpsmods/minecraft-scripting-libraries/refs/heads/main/libraries/mc-build/changelog.schema.json"
+    }
+  ]
 }

@@ -2,11 +2,13 @@
   "name": "spawner_craft",
   "private": true,
   "devDependencies": {
-    "@minecraft/core-build-tasks": "^5.5.0",
-    "@typescript-eslint/eslint-plugin": "^8.40.0",
-    "eslint-plugin-minecraft-linting": "^2.0.2",
-    "prettier": "^3.6.2",
-    "source-map": "^0.7.4",
+    "@lpsmods/mc-build": "^0.0.1-alpha.1",
+    "@minecraft/core-build-tasks": "^5.7.0",
+    "@types/pako": "^2.0.4",
+    "@typescript-eslint/eslint-plugin": "^8.64.0",
+    "eslint-plugin-minecraft-linting": "^2.0.12",
+    "prettier": "^3.9.5",
+    "source-map": "^0.7.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.0.2"
   },
@@ -20,9 +22,14 @@
     "enablemcpreviewloopback": "CheckNetIsolation.exe LoopbackExempt -a -p=S-1-15-2-424268864-5579737-879501358-346833251-474568803-887069379-4040235476"
   },
   "dependencies": {
-    "@lpsmods/mc-utils": "^0.0.7",
-    "@minecraft/math": "^2.2.8",
-    "@minecraft/server": "^2.3.0",
-    "@minecraft/server-ui": "^2.0.0"
+    "@lpsmods/mc-utils": "^1.0.1",
+    "@minecraft/math": "^2.4.0",
+    "@minecraft/server": "^2.8.0",
+    "@minecraft/server-ui": "^2.1.0",
+    "pako": "^2.2.0"
+  },
+  "allowScripts": {
+    "esbuild@0.25.12": true,
+    "esbuild@0.28.1": true
   }
 }

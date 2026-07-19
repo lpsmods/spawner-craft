@@ -1,15 +1,15 @@
-import { Pages } from "@lpsmods/mc-utils";
-import { changelogs } from "./changelogs";
+import { Pages } from "@lpsmods/mc-common";
 import { recipes } from "./recipes";
 import { items } from "./items";
+import { changelog } from "#changelog";
 
 export const pages: Pages = {
   home: {
     title: "guide.common.guide_book",
     body: "#desc",
-    buttons: ["recipes", "items", "changelogs"],
+    buttons: ["recipes", "items", "changelog"],
   },
   ...recipes,
   ...items,
-  ...changelogs,
+  ...changelog,
 };

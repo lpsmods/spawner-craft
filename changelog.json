@@ -1,0 +1,175 @@
+{
+  "2.1.0": {
+    "title": "2.1.0",
+    "author": "legopitstop",
+    "date": "2026-07-18",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 26.33"]
+      },
+      {
+        "title": "New Recipes",
+        "list": ["Sulfur Cube Spawn Egg"]
+      }
+    ]
+  },
+  "2.0.0": {
+    "title": "2.0.0",
+    "author": "legopitstop",
+    "date": "2025-12-12",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Requires Assets+ v2.0.0", "Updated for 1.21.120", "Added guide book."]
+      },
+      {
+        "title": "New Recipes",
+        "list": [
+          "Copper Golem Spawn Egg",
+          "Camel Husk Spawn Egg",
+          "Nautilus Spawn Egg",
+          "Parched Spawn Egg",
+          "Zombie Nautilus Spawn Egg",
+          "Guide Book"
+        ]
+      }
+    ]
+  },
+  "1.7.0": {
+    "title": "1.7.0",
+    "author": "legopitstop",
+    "date": "2025-06-19",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.21.90"]
+      },
+      {
+        "title": "New Recipes",
+        "list": ["Happy Ghast Spawn Egg"]
+      }
+    ]
+  },
+  "1.6.0": {
+    "title": "1.6.0",
+    "author": "legopitstop",
+    "date": "2025-03-26",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.21.70", "You can now use the Brown and Blue Eggs in all recipes."]
+      }
+    ]
+  },
+  "1.5.0": {
+    "title": "1.5.0",
+    "author": "legopitstop",
+    "date": "2025-02-15",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.21.60"]
+      },
+      {
+        "title": "New Recipes",
+        "list": ["Creaking Spawn Egg"]
+      }
+    ]
+  },
+  "1.4.0": {
+    "title": "1.4.0",
+    "author": "legopitstop",
+    "date": "2024-13-05",
+    "categories": [
+      {
+        "title": "General",
+        "list": [
+          "Updated for 1.20.81",
+          "Recipes will unlock when you obtain an ingredient used in the recipe.",
+          "Added \"Update 1.21\" toggle to pack settings for recipes coming to 1.21"
+        ]
+      },
+      {
+        "title": "New Recipes",
+        "list": ["Armadillo Spawn Egg"]
+      },
+      {
+        "title": "New Experimental Recipes",
+        "list": ["Breeze Spawn Egg", "Bogged Spawn Egg"]
+      }
+    ]
+  },
+  "1.3.0": {
+    "title": "1.3.0",
+    "author": "legopitstop",
+    "date": "2023-26-08",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.20.1"]
+      },
+      {
+        "title": "New Recipes",
+        "list": ["Iron Golem Spawn Egg", "Snow Golem Spawn Egg", "Sniffer Spawn Egg", "Camel Spawn Egg"]
+      }
+    ]
+  },
+  "1.2.0": {
+    "title": "1.2.0",
+    "author": "legopitstop",
+    "date": "2022-09-06",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.19", "Added custom pack icon."]
+      },
+      {
+        "title": "New Recipes",
+        "list": [
+          "Goat Spawn Egg",
+          "Glow Squid Spawn Egg",
+          "Axolotl Spawn Egg",
+          "Warden Spawn Egg",
+          "Tadpole Spawn Egg",
+          "Frog Spawn Egg",
+          "Allay Spawn Egg"
+        ]
+      }
+    ]
+  },
+  "1.1.0": {
+    "title": "1.1.0",
+    "author": "legopitstop",
+    "date": "2022-02-03",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Updated for 1.19", "Added custom pack icon."]
+      },
+      {
+        "title": "New Recipes",
+        "list": [
+          "Goat Spawn Egg",
+          "Glow Squid Spawn Egg",
+          "Axolotl Spawn Egg",
+          "Warden Spawn Egg",
+          "Tadpole Spawn Egg",
+          "Frog Spawn Egg",
+          "Allay Spawn Egg"
+        ]
+      }
+    ]
+  },
+  "1.0.0": {
+    "title": "1.0.0",
+    "author": "legopitstop",
+    "date": "2023-16-12",
+    "categories": [
+      {
+        "title": "General",
+        "list": ["Initial release"]
+      }
+    ]
+  }
+}
