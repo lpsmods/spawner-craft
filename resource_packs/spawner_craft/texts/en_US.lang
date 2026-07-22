@@ -5,6 +5,9 @@ item.lpsm_spawner_craft:guide_book=Guide Book\n§6Spawner Craft Add-On§r
 
 guide.lpsm_spawner_craft:desc=Welcome to §6Spawner Craft§r! This Add-On allows you to craft spawn eggs and spawners for all mobs in your world!\n
 
+guide.lpsm_spawner_craft:creator=Creator
+guide.lpsm_spawner_craft:creator.desc=§lDiscord Server:§r\nJoin the community at §6discord.lpsmods.dev§r for Add-On help, updates, and creator discussion.
+
 guide.lpsm_spawner_craft:changelogs.v200=v2.0.0 §6[Installed]§r
 guide.lpsm_spawner_craft:changelogs.v200.desc=- Requires Assets+ v2.0.0\n- Updated for 1.21.10\n- Added guide book.\n\n§lNew Recipes:§r\n- Copper Golem Spawn Egg\n- Camel Husk Spawn Egg\n- Nautilus Spawn Egg\n- Parched Spawn Egg\n- Zombie Nautilus Spawn Egg\n- Guide Book
 guide.lpsm_spawner_craft:changelogs.v170=v1.7.0
