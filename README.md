@@ -16,10 +16,10 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 
 ## Mod Data
 
-| Key           | Value                |
-| ------------- | -------------------- |
-| namespace     | `lpsm_spawner_craft` |
-| spawner-craft | `spawner-craft`      |
+| Key       | Value                |
+| --------- | -------------------- |
+| namespace | `lpsm_spawner_craft` |
+| slug      | `spawner-craft`      |
 
 ## LINKS
 
