@@ -10,7 +10,7 @@ Craft spawn eggs and spawners.
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`1.21`](https://github.com/lpsmods/spawner-craft/tree/1.21)
+- [`java`](https://github.com/lpsmods/spawner-craft/tree/1.21)
 - [`datapack`](https://github.com/lpsmods/spawner-craft/tree/datapack)
 - [`bedrock`](https://github.com/lpsmods/spawner-craft/tree/bedrock)
 
